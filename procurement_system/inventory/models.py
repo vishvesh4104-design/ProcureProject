@@ -9,3 +9,4 @@ class InventoryItem(models.Model):
     def __str__(self):
         return self.name
 
+# this is a test
